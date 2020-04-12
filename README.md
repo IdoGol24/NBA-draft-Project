@@ -8,7 +8,7 @@ In the beginning of every season, the NBA Teams (The National Basketball associa
 The Order of selection is importent, whereas the players that would be regarded as "Top" or "Elite" Players would tend to select in the early stages of the Draft. for Example, Lebron James and Shaquille O'neal were selected in the first pick in thire respective drafts (2003 and 1992).
 Shared wins is a major factor to player drafting Pick position and in this project I will try to predict it based on data I scraped from the last 40 years of the Draft.
 
-**Credit to https://www.basketball-reference.com/ and https://basketball.realgm.com/ for the Data.**
+Credit to https://www.basketball-reference.com/ and https://basketball.realgm.com/ for the Data.
 
 
-**[edit ! so far I managed to complete only the Visualization and Scraping portions of the project]**
+**edit ! so far I managed to complete only the Visualization and Scraping portions of the project**
